@@ -9,4 +9,6 @@ Technologies used in this project:
 6. Media queries
 7. Immutability array in JavaScript
 
+Link to the project website: https://lukaszwywiol.github.io/tasks/
+
 ![Program window on a website](images/todolist.png)
