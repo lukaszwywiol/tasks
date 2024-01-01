@@ -1,5 +1,7 @@
 # To-Do List
 
+## Description
+### On the Daily Tasks project page, you can add new tasks to your list, mark tasks as completed, and remove them from your task list.
 Technologies used in this project:
 1. HTML
 2. CSS
